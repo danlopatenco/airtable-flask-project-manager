@@ -1,0 +1,4 @@
+Flask
+python-dotenv
+flake8
+requests
